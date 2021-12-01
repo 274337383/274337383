@@ -6,7 +6,7 @@
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
+<a href="https://https://www.java.com/zh-CN/"><code><img height="20" src="./images/icons8-java-64.png"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
 <a href="https://less.bootcss.com"><code><img height="20" src="./images/less.png"></code></a>
