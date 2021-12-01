@@ -11,7 +11,7 @@
 
 ### 开源项目
 
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=274337383&repo=boot-05-web-01)](https://github.com/Minori-ty/qq-bot)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=274337383&repo=boot-05-web-01)](https://github.com/274337383/boot-05-web-01)
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
 <br><br><br>
 
